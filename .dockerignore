@@ -1,6 +1,3 @@
-# Exclude Maven build artifacts
-target/
-
 # Exclude IDE-specific files
 .idea/
 *.iml
