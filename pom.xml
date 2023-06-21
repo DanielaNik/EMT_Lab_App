@@ -48,6 +48,7 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <optional>true</optional>
+            <version>1.18.26</version>
         </dependency>
 
         <dependency>
@@ -84,5 +85,9 @@
         </dependency>
 
     </dependencies>
+
+    <build>
+        <finalName>emt_lab</finalName>
+    </build>
 
 </project>
